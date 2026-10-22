@@ -5,3 +5,9 @@ git clone lien-du-repository
 git add .
 git commit -m "commentaire"
 git push
+
+#  changer de branche 
+
+git switch "nom de la branche"
+git pull
+git switch "nom de la branche"
